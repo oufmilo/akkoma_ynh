@@ -27,7 +27,7 @@ Akkoma is a microblogging server software that can federate (= exchange messages
 
 ## Captures d'écran
 
-![Capture d'écran de Akkoma](./doc/screenshots/screenshot1.png)
+![Capture d'écran de Akkoma](./doc/screenshots/screenshot-akkoma.jpg)
 
 ## Avertissements / informations importantes
 
